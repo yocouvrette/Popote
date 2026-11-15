@@ -1,0 +1,2120 @@
+{
+ "_source": "Réponse réelle /flipp/flyers, H2X1Y4, fr-ca, 2026-11-15",
+ "flyers": [
+  {
+   "id": 8218138,
+   "merchant": "Jean Coutu",
+   "merchant_id": 2521,
+   "name": "Promotions",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-15T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Specialty,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221074,
+   "merchant": "Gagnon - La Grande Quincaillerie",
+   "merchant_id": 6481,
+   "name": "Circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-25T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8194713,
+   "merchant": "Chaussures Pop",
+   "merchant_id": 6456,
+   "name": "",
+   "valid_from": "2026-11-03T00:00:00-05:00",
+   "valid_to": "2026-11-15T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "General Merchandise",
+    "Fashion"
+   ],
+   "categories_csv": "All Flyers,General Merchandise,Fashion",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221297,
+   "merchant": "Adonis",
+   "merchant_id": 3384,
+   "name": "Weekly",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8225637,
+   "merchant": "Bonanza",
+   "merchant_id": 3292,
+   "name": "",
+   "valid_from": "2026-11-11T00:00:00-05:00",
+   "valid_to": "2026-11-17T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8225302,
+   "merchant": "Kim Phat",
+   "merchant_id": 3290,
+   "name": "Circulaire Hebdomadaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 7757550,
+   "merchant": "Bain Depot",
+   "merchant_id": 3297,
+   "name": "Catalogue 2026",
+   "valid_from": "2026-02-06T00:00:00-05:00",
+   "valid_to": "2026-12-31T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8227679,
+   "merchant": "T&T Supermarket",
+   "merchant_id": 6373,
+   "name": "",
+   "valid_from": "2026-11-13T00:00:00-05:00",
+   "valid_to": "2026-11-19T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8219784,
+   "merchant": "Canac",
+   "merchant_id": 3777,
+   "name": "Aide Pour Vrai",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8226747,
+   "merchant": "Pharmaprix",
+   "merchant_id": 2170,
+   "name": "Circulaire",
+   "valid_from": "2026-11-14T03:00:00-05:00",
+   "valid_to": "2026-11-20T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8194736,
+   "merchant": "Princess Auto",
+   "merchant_id": 1331,
+   "name": "Circulaire",
+   "valid_from": "2026-11-03T00:00:00-05:00",
+   "valid_to": "2026-11-15T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Automotive"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Automotive",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8217053,
+   "merchant": "Meubles RD",
+   "merchant_id": 3474,
+   "name": "Vendredi fou",
+   "valid_from": "2026-11-09T00:00:00-05:00",
+   "valid_to": "2026-11-15T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Black Friday",
+    "Home & Garden",
+    "Specialty"
+   ],
+   "categories_csv": "All Flyers,Black Friday,Home & Garden,Specialty",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221199,
+   "merchant": "Chico",
+   "merchant_id": 6447,
+   "name": "Flyer",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-25T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pets"
+   ],
+   "categories_csv": "All Flyers,Pets",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8227753,
+   "merchant": "Bureau en gros",
+   "merchant_id": 6617,
+   "name": "Circulaire",
+   "valid_from": "2026-11-13T00:00:00-05:00",
+   "valid_to": "2026-11-19T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Electronics",
+    "Office"
+   ],
+   "categories_csv": "All Flyers,Electronics,Office",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8220292,
+   "merchant": "Canadian Tire",
+   "merchant_id": 2471,
+   "name": "Circulaire hebdomadaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Automotive",
+    "Black Friday",
+    "General Merchandise"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Automotive,Black Friday,General Merchandise",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8141810,
+   "merchant": "Btrust Supermarket",
+   "merchant_id": 2824,
+   "name": "",
+   "valid_from": "2026-09-17T00:00:00-04:00",
+   "valid_to": "2026-12-31T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty"
+   ],
+   "categories_csv": "All Flyers,Specialty",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8210208,
+   "merchant": "SAQ",
+   "merchant_id": 6128,
+   "name": "Circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-29T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty"
+   ],
+   "categories_csv": "All Flyers,Specialty",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222544,
+   "merchant": "Rachelle Béry",
+   "merchant_id": 3295,
+   "name": "Espace Santé",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Groceries,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8212777,
+   "merchant": "RONA & RONA +",
+   "merchant_id": 550,
+   "name": "Catalogue d’outils",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2027-01-27T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8224811,
+   "merchant": "Les Fermes Lufa",
+   "merchant_id": 7383,
+   "name": "Circulaire",
+   "valid_from": "2026-11-15T00:00:00-05:00",
+   "valid_to": "2026-11-21T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8227334,
+   "merchant": "Marché Ocean Plus",
+   "merchant_id": 6461,
+   "name": "Indexed weekly",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8217103,
+   "merchant": "Subway",
+   "merchant_id": 5882,
+   "name": "Subway",
+   "valid_from": "2026-11-04T00:00:00-05:00",
+   "valid_to": "2026-12-13T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Restaurants",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Restaurants,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8220900,
+   "merchant": "L'Inter-Marché International",
+   "merchant_id": 4642,
+   "name": "Weekly Flyer - Valid Thursday, November 12 - Wednesday, November 18",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221207,
+   "merchant": "Linen Chest",
+   "merchant_id": 435,
+   "name": "Circulaire",
+   "valid_from": "2026-11-11T00:00:00-05:00",
+   "valid_to": "2026-11-22T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8213723,
+   "merchant": "BMR ",
+   "merchant_id": 2157,
+   "name": "Agrizone - Semaine 45",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-25T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8220869,
+   "merchant": "Dormez-Vous",
+   "merchant_id": 2708,
+   "name": "",
+   "valid_from": "2026-11-11T00:00:00-05:00",
+   "valid_to": "2026-11-17T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221410,
+   "merchant": "Les Marchés Tradition",
+   "merchant_id": 4780,
+   "name": "Québec",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221032,
+   "merchant": "Vie En Vert",
+   "merchant_id": 6625,
+   "name": "Flyer",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8223296,
+   "merchant": "Corbeil Électroménagers",
+   "merchant_id": 441,
+   "name": "Circulaire",
+   "valid_from": "2026-10-29T00:00:00-04:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8223177,
+   "merchant": "IGA",
+   "merchant_id": 4592,
+   "name": "Québec – Circulaire Hebdomadaire ",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8213243,
+   "merchant": "Walmart",
+   "merchant_id": 234,
+   "name": "Livret des marques maison",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-12-09T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries",
+    "General Merchandise"
+   ],
+   "categories_csv": "All Flyers,Groceries,General Merchandise",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8225749,
+   "merchant": "Centre Hi-Fi",
+   "merchant_id": 2741,
+   "name": "Weekly Flyer",
+   "valid_from": "2026-11-13T00:00:00-05:00",
+   "valid_to": "2026-11-19T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Electronics",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Electronics,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8223236,
+   "merchant": "Imaginaire",
+   "merchant_id": 7223,
+   "name": "Catalogue",
+   "valid_from": "2026-11-13T00:00:00-05:00",
+   "valid_to": "2026-12-24T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty"
+   ],
+   "categories_csv": "All Flyers,Specialty",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8218041,
+   "merchant": "Jean Coutu",
+   "merchant_id": 2521,
+   "name": "Weekly Ad",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Pharmacy,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221117,
+   "merchant": "Première Moisson ",
+   "merchant_id": 5999,
+   "name": "Circulaire",
+   "valid_from": "2026-11-09T00:00:00-05:00",
+   "valid_to": "2026-12-31T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty"
+   ],
+   "categories_csv": "All Flyers,Specialty",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8218140,
+   "merchant": "Marché Richelieu",
+   "merchant_id": 3372,
+   "name": "Circulaire hebdomadaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8220778,
+   "merchant": "Metro",
+   "merchant_id": 2269,
+   "name": "Quebec",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8220907,
+   "merchant": "Super C",
+   "merchant_id": 2585,
+   "name": "Circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8218487,
+   "merchant": "Marché Ami",
+   "merchant_id": 3761,
+   "name": "Circulaire hebdomadaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8207855,
+   "merchant": "Mondou",
+   "merchant_id": 3318,
+   "name": "Circulaire",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pets"
+   ],
+   "categories_csv": "All Flyers,Pets",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8223391,
+   "merchant": "Flipp Hottest Deals",
+   "merchant_id": 6601,
+   "name": "Weekly Deals",
+   "valid_from": "2026-11-13T12:00:00-05:00",
+   "valid_to": "2026-11-20T11:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "General Merchandise",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,General Merchandise,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8218053,
+   "merchant": "Jean Coutu",
+   "merchant_id": 2521,
+   "name": "Circulaire Santé Beauté",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy",
+    "Black Friday",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Pharmacy,Black Friday,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8218734,
+   "merchant": "Walmart",
+   "merchant_id": 234,
+   "name": "Circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries",
+    "General Merchandise"
+   ],
+   "categories_csv": "All Flyers,Groceries,General Merchandise",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8199780,
+   "merchant": "Bio Terre - Épicerie Santé",
+   "merchant_id": 7353,
+   "name": "circulaire",
+   "valid_from": "2026-11-06T00:00:00-05:00",
+   "valid_to": "2026-11-21T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8207889,
+   "merchant": "Rossy",
+   "merchant_id": 3544,
+   "name": "Livre de souhaits",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-12-24T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "General Merchandise"
+   ],
+   "categories_csv": "All Flyers,General Merchandise",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8207846,
+   "merchant": "Rossy",
+   "merchant_id": 3544,
+   "name": "Catalogue de Noël",
+   "valid_from": "2026-10-29T00:00:00-04:00",
+   "valid_to": "2026-12-24T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "General Merchandise"
+   ],
+   "categories_csv": "All Flyers,General Merchandise",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8209200,
+   "merchant": "Uniprix",
+   "merchant_id": 3467,
+   "name": "Circulaire hebdomadaire",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222486,
+   "merchant": "Familiprix Santé",
+   "merchant_id": 7344,
+   "name": "Sante",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8227222,
+   "merchant": "Marche C & T",
+   "merchant_id": 3288,
+   "name": "",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-19T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8190054,
+   "merchant": "le Choix du Président",
+   "merchant_id": 2019,
+   "name": "Holiday Insiders Report",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2027-01-06T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222488,
+   "merchant": "Familiprix Clinique",
+   "merchant_id": 7345,
+   "name": "Clinique",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8195674,
+   "merchant": "JYSK",
+   "merchant_id": 393,
+   "name": "Circulaire hebdomadaire",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222320,
+   "merchant": "Maxi",
+   "merchant_id": 2349,
+   "name": "Weekly Flyer - Valid Thursday, November 12 - Wednesday, November 18",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8210177,
+   "merchant": "Pharmaprix",
+   "merchant_id": 2170,
+   "name": "Holiday Beauty Book",
+   "valid_from": "2026-11-07T00:00:00-05:00",
+   "valid_to": "2026-11-27T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8226959,
+   "merchant": "Grand Marché Col-Fax",
+   "merchant_id": 4735,
+   "name": "",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8218434,
+   "merchant": "Supermarche PA",
+   "merchant_id": 3287,
+   "name": "Weekly Flyer",
+   "valid_from": "2026-11-09T00:00:00-05:00",
+   "valid_to": "2026-11-15T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8220344,
+   "merchant": "Club Entrepôt et Wholesale Club",
+   "merchant_id": 2702,
+   "name": "Flyer - Valid Thursday, November 12 - Wednesday, December 2",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-12-02T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8215894,
+   "merchant": "Accès pharma",
+   "merchant_id": 6451,
+   "name": "Mensuel",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-25T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221112,
+   "merchant": "Proxim",
+   "merchant_id": 3543,
+   "name": "",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8212906,
+   "merchant": "Vie En Vert",
+   "merchant_id": 6625,
+   "name": "Flyer",
+   "valid_from": "2026-11-01T00:00:00-04:00",
+   "valid_to": "2026-11-30T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8220868,
+   "merchant": "Dormez-Vous",
+   "merchant_id": 2708,
+   "name": "",
+   "valid_from": "2026-11-11T00:00:00-05:00",
+   "valid_to": "2026-11-17T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221210,
+   "merchant": "Gosselin Photo",
+   "merchant_id": 1448,
+   "name": "Guide Cadeaux",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-12-25T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Electronics"
+   ],
+   "categories_csv": "All Flyers,Electronics",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8225279,
+   "merchant": "L'Équipeur",
+   "merchant_id": 6082,
+   "name": "",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Specialty,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222498,
+   "merchant": "Familiprix Extra",
+   "merchant_id": 7346,
+   "name": "Extra",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8219819,
+   "merchant": "Jean Coutu",
+   "merchant_id": 2521,
+   "name": "Promotions",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-12-24T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Specialty,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222356,
+   "merchant": "Les aliments M&M",
+   "merchant_id": 2024,
+   "name": "Circulaire hebdomadaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries",
+    "Specialty"
+   ],
+   "categories_csv": "All Flyers,Groceries,Specialty",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8199571,
+   "merchant": "Ki Nature & Santé",
+   "merchant_id": 6541,
+   "name": "circulaire",
+   "valid_from": "2026-11-07T00:00:00-05:00",
+   "valid_to": "2026-11-21T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8226958,
+   "merchant": "Btrust Supermarket",
+   "merchant_id": 2824,
+   "name": "",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8188988,
+   "merchant": "Walmart",
+   "merchant_id": 234,
+   "name": "Livret mode des Fêtes",
+   "valid_from": "2026-10-29T00:00:00-04:00",
+   "valid_to": "2026-11-25T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "General Merchandise"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,General Merchandise",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8226957,
+   "merchant": "Euro Marche",
+   "merchant_id": 3300,
+   "name": "",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8156644,
+   "merchant": "Walmart",
+   "merchant_id": 234,
+   "name": "Livret des jouets",
+   "valid_from": "2026-10-15T00:00:00-04:00",
+   "valid_to": "2026-12-23T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Baby & Kids"
+   ],
+   "categories_csv": "All Flyers,Baby & Kids",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 7862452,
+   "merchant": "Home Hardware",
+   "merchant_id": 237,
+   "name": "Vie à La Ferme et Rurale",
+   "valid_from": "2026-04-02T00:00:00-04:00",
+   "valid_to": "2026-12-31T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8228052,
+   "merchant": "Marché Fu Tai",
+   "merchant_id": 5719,
+   "name": "Weekly",
+   "valid_from": "2026-11-13T00:00:00-05:00",
+   "valid_to": "2026-11-19T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8218090,
+   "merchant": "Jean Coutu",
+   "merchant_id": 2521,
+   "name": "Promotions",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Specialty,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8228041,
+   "merchant": "Marché Newon",
+   "merchant_id": 6381,
+   "name": "Circulaire",
+   "valid_from": "2026-11-13T00:00:00-05:00",
+   "valid_to": "2026-11-19T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8078978,
+   "merchant": "Home Hardware",
+   "merchant_id": 237,
+   "name": "Kitchen & Bath Catalogue",
+   "valid_from": "2026-08-27T00:00:00-04:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8195880,
+   "merchant": "Home Hardware",
+   "merchant_id": 237,
+   "name": "Home Hardware",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221586,
+   "merchant": "Matério",
+   "merchant_id": 4789,
+   "name": "circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-25T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8218169,
+   "merchant": "Marché Bonichoix",
+   "merchant_id": 3566,
+   "name": "Circulaire de la semaine",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8211073,
+   "merchant": "Brick",
+   "merchant_id": 221,
+   "name": "Vendredi Fou Accès à L'avance",
+   "valid_from": "2026-11-02T00:00:00-05:00",
+   "valid_to": "2026-11-19T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Electronics",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Electronics,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8213295,
+   "merchant": "RONA & RONA +",
+   "merchant_id": 550,
+   "name": "Circulaire de la semaine",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8209462,
+   "merchant": "Familiprix Extra",
+   "merchant_id": 7346,
+   "name": "Extra",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8220256,
+   "merchant": "Avril Supermarché Santé",
+   "merchant_id": 3940,
+   "name": "Circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8224852,
+   "merchant": "Patrick Morin",
+   "merchant_id": 3564,
+   "name": "Flyer",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8223393,
+   "merchant": "Rachelle Béry",
+   "merchant_id": 3295,
+   "name": "Épicerie",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8227245,
+   "merchant": "Marche LianTai",
+   "merchant_id": 5805,
+   "name": "",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8208126,
+   "merchant": "Stokes ",
+   "merchant_id": 2608,
+   "name": "",
+   "valid_from": "2026-10-26T00:00:00-04:00",
+   "valid_to": "2026-11-22T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Black Friday",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Black Friday,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8228020,
+   "merchant": "Marché Sheng Tai",
+   "merchant_id": 4715,
+   "name": "Indexed",
+   "valid_from": "2026-11-13T00:00:00-05:00",
+   "valid_to": "2026-11-19T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222658,
+   "merchant": "Michaels Canada",
+   "merchant_id": 2597,
+   "name": "",
+   "valid_from": "2026-11-13T00:00:00-05:00",
+   "valid_to": "2026-11-19T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Specialty,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8229669,
+   "merchant": "Marche Nuvo Market",
+   "merchant_id": 3751,
+   "name": "",
+   "valid_from": "2026-11-15T00:00:00-05:00",
+   "valid_to": "2026-11-21T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8206977,
+   "merchant": "SAIL",
+   "merchant_id": 3762,
+   "name": "",
+   "valid_from": "2026-11-02T00:00:00-05:00",
+   "valid_to": "2026-11-22T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Sporting Goods"
+   ],
+   "categories_csv": "All Flyers,Sporting Goods",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222642,
+   "merchant": "Metro",
+   "merchant_id": 2269,
+   "name": "mijoter l'automne c'est encore meilleur",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8209532,
+   "merchant": "Uniprix",
+   "merchant_id": 3467,
+   "name": "Circulaire hebdomadaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221118,
+   "merchant": "MarchesTAU",
+   "merchant_id": 6465,
+   "name": "Circulaire de Fruits et Légumes",
+   "valid_from": "2026-11-09T00:00:00-05:00",
+   "valid_to": "2026-11-15T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8209277,
+   "merchant": "Proxim",
+   "merchant_id": 3543,
+   "name": "Holiday Guide",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-12-02T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8224177,
+   "merchant": "Mayrand",
+   "merchant_id": 3785,
+   "name": "Weekly Ad",
+   "valid_from": "2026-11-11T00:00:00-05:00",
+   "valid_to": "2026-11-17T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8209495,
+   "merchant": "Bain Depot",
+   "merchant_id": 3297,
+   "name": "Black Friday Flyer 2026",
+   "valid_from": "2026-11-04T00:00:00-05:00",
+   "valid_to": "2026-12-01T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8227208,
+   "merchant": "Supermarché Atlantis",
+   "merchant_id": 5998,
+   "name": "Circulaire Hebdomadaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221179,
+   "merchant": "Home Depot",
+   "merchant_id": 236,
+   "name": "Circulaire ",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8194573,
+   "merchant": "Home Hardware",
+   "merchant_id": 237,
+   "name": "Guides de Fêtes",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-12-16T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8219509,
+   "merchant": "Home Hardware",
+   "merchant_id": 237,
+   "name": "Tub & Shower Sale",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8210280,
+   "merchant": "Léon",
+   "merchant_id": 2595,
+   "name": "SOLDE DE VENDREDI FOU DÉBUTE TÔT!",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221079,
+   "merchant": "Matériaux Pont Masson",
+   "merchant_id": 6458,
+   "name": "Circulaire Hebdomadaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-25T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221978,
+   "merchant": "Provigo",
+   "merchant_id": 2338,
+   "name": "Weekly Flyer - Valid Thursday, November 12 - Wednesday, November 18",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8218302,
+   "merchant": "Walmart",
+   "merchant_id": 234,
+   "name": "Vendredi fou",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T20:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "General Merchandise",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,General Merchandise,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8216471,
+   "merchant": "Costco",
+   "merchant_id": 2596,
+   "name": "Circulaire",
+   "valid_from": "2026-10-26T00:00:00-04:00",
+   "valid_to": "2026-11-22T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "General Merchandise"
+   ],
+   "categories_csv": "All Flyers,General Merchandise",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8215086,
+   "merchant": "Rossy",
+   "merchant_id": 3544,
+   "name": "Circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "General Merchandise"
+   ],
+   "categories_csv": "All Flyers,General Merchandise",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8223785,
+   "merchant": "Costco",
+   "merchant_id": 2596,
+   "name": "Costco Grocery",
+   "valid_from": "2026-11-09T00:00:00-05:00",
+   "valid_to": "2026-11-15T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8207873,
+   "merchant": "Gosselin Photo",
+   "merchant_id": 1448,
+   "name": "",
+   "valid_from": "2026-11-06T00:00:00-05:00",
+   "valid_to": "2026-11-19T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Electronics",
+    "Black Friday"
+   ],
+   "categories_csv": "All Flyers,Electronics,Black Friday",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8220330,
+   "merchant": "Super C",
+   "merchant_id": 2585,
+   "name": "Circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8217165,
+   "merchant": "Subway",
+   "merchant_id": 5882,
+   "name": "Subway",
+   "valid_from": "2026-11-04T00:00:00-05:00",
+   "valid_to": "2026-12-13T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Restaurants",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Restaurants,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222309,
+   "merchant": "Pasquier",
+   "merchant_id": 3791,
+   "name": "Weekly (direct)",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8224384,
+   "merchant": "Supermarché Aurès",
+   "merchant_id": 6798,
+   "name": "Flyer",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221404,
+   "merchant": "Uniprix Sante",
+   "merchant_id": 6788,
+   "name": "Uniprix Sante\t",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8212406,
+   "merchant": "Brunet",
+   "merchant_id": 3753,
+   "name": "Circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8216344,
+   "merchant": "Marche Salaberry",
+   "merchant_id": 6616,
+   "name": "Flyer",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8190324,
+   "merchant": "Long & McQuade Musical Instruments",
+   "merchant_id": 486,
+   "name": "Catalogue",
+   "valid_from": "2026-10-22T00:00:00-04:00",
+   "valid_to": "2027-07-31T23:59:59-04:00",
+   "categories": [
+    "All Flyers",
+    "Specialty"
+   ],
+   "categories_csv": "All Flyers,Specialty",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8203437,
+   "merchant": "Panier Santé La Prairie",
+   "merchant_id": 6585,
+   "name": "flyer",
+   "valid_from": "2026-11-06T00:00:00-05:00",
+   "valid_to": "2026-11-21T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8170784,
+   "merchant": "St. Hubert",
+   "merchant_id": 7082,
+   "name": "Direct",
+   "valid_from": "2026-10-06T00:00:00-04:00",
+   "valid_to": "2026-11-16T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Restaurants"
+   ],
+   "categories_csv": "All Flyers,Restaurants",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8210329,
+   "merchant": "Princess Auto",
+   "merchant_id": 1331,
+   "name": "Casse-Coûts",
+   "valid_from": "2026-11-01T00:00:00-04:00",
+   "valid_to": "2026-11-30T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Automotive",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Automotive,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8208227,
+   "merchant": "Hart Stores",
+   "merchant_id": 3482,
+   "name": "Circulaire",
+   "valid_from": "2026-11-11T00:00:00-05:00",
+   "valid_to": "2026-11-24T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Fashion",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Fashion,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221275,
+   "merchant": "Adonis",
+   "merchant_id": 3384,
+   "name": "Weekly",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-12-24T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222476,
+   "merchant": "Familiprix",
+   "merchant_id": 1976,
+   "name": "Circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8211793,
+   "merchant": "Doyon Després",
+   "merchant_id": 7203,
+   "name": "Circulaire",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-12-02T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8189221,
+   "merchant": "Canadian Tire",
+   "merchant_id": 2471,
+   "name": "Catalogue",
+   "valid_from": "2026-10-29T00:00:00-04:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden",
+    "Automotive"
+   ],
+   "categories_csv": "All Flyers,Home & Garden,Automotive",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8215918,
+   "merchant": "Proximed",
+   "merchant_id": 6785,
+   "name": "",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-12-02T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8166043,
+   "merchant": "Marche C & T",
+   "merchant_id": 3288,
+   "name": "Insert",
+   "valid_from": "2026-09-28T00:00:00-04:00",
+   "valid_to": "2026-12-31T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8221003,
+   "merchant": "Go Sport",
+   "merchant_id": 6457,
+   "name": "",
+   "valid_from": "2026-11-03T00:00:00-05:00",
+   "valid_to": "2026-11-15T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "General Merchandise",
+    "Sporting Goods"
+   ],
+   "categories_csv": "All Flyers,General Merchandise,Sporting Goods",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8218086,
+   "merchant": "Familiprix",
+   "merchant_id": 1976,
+   "name": "Extra Circulaire",
+   "valid_from": "2026-11-05T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8224222,
+   "merchant": "United Seafood",
+   "merchant_id": 5808,
+   "name": "Indexed Weekly",
+   "valid_from": "2026-11-11T00:00:00-05:00",
+   "valid_to": "2026-11-17T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty"
+   ],
+   "categories_csv": "All Flyers,Specialty",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8202709,
+   "merchant": "Le Panier Vert",
+   "merchant_id": 6569,
+   "name": "flyer",
+   "valid_from": "2026-11-06T00:00:00-05:00",
+   "valid_to": "2026-11-21T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Pharmacy"
+   ],
+   "categories_csv": "All Flyers,Pharmacy",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8197419,
+   "merchant": "Marche Express",
+   "merchant_id": 6548,
+   "name": "",
+   "valid_from": "2026-10-28T00:00:00-04:00",
+   "valid_to": "2027-01-12T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "General Merchandise"
+   ],
+   "categories_csv": "All Flyers,General Merchandise",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8225679,
+   "merchant": "Val-Mont",
+   "merchant_id": 3296,
+   "name": "",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8220875,
+   "merchant": "Tigre Géant",
+   "merchant_id": 991,
+   "name": "Circulaire hebdomadaire",
+   "valid_from": "2026-11-11T00:00:00-05:00",
+   "valid_to": "2026-11-17T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries",
+    "General Merchandise"
+   ],
+   "categories_csv": "All Flyers,Groceries,General Merchandise",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8222603,
+   "merchant": "BMR ",
+   "merchant_id": 2157,
+   "name": "Circulaire",
+   "valid_from": "2026-11-12T00:00:00-05:00",
+   "valid_to": "2026-11-18T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Home & Garden"
+   ],
+   "categories_csv": "All Flyers,Home & Garden",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8209083,
+   "merchant": "EB Games Canada",
+   "merchant_id": 3046,
+   "name": "Flyer",
+   "valid_from": "2026-10-30T00:00:00-04:00",
+   "valid_to": "2026-12-24T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Electronics",
+    "Specialty"
+   ],
+   "categories_csv": "All Flyers,Electronics,Specialty",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8156933,
+   "merchant": "MarchesTAU",
+   "merchant_id": 6465,
+   "name": "Circulaire",
+   "valid_from": "2026-10-05T00:00:00-04:00",
+   "valid_to": "2026-11-15T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Groceries"
+   ],
+   "categories_csv": "All Flyers,Groceries",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  },
+  {
+   "id": 8166045,
+   "merchant": "Btrust Supermarket",
+   "merchant_id": 2824,
+   "name": "",
+   "valid_from": "2026-09-28T00:00:00-04:00",
+   "valid_to": "2026-12-31T23:59:59-05:00",
+   "categories": [
+    "All Flyers",
+    "Specialty"
+   ],
+   "categories_csv": "All Flyers,Specialty",
+   "postal_code": "H2X1Y4",
+   "locale": "fr_CA"
+  }
+ ]
+}
